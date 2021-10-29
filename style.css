@@ -123,13 +123,13 @@ nav ul li a:hover::after
 {
     position: absolute;
     right: 8%;
-    bottom: 10%;
+    bottom: 20%;
 }
 .social-icons img
 {
     width: 25px;
     display: block;
-    margin: 25px 5px;
+    margin: 30px 5px;
 }
 .copyright
 {
