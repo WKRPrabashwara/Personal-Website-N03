@@ -138,23 +138,3 @@ nav ul li a:hover::after
     right: 43%;
     bottom: 25%;
 }
-.next
-{
-    position: absolute;
-    right: 8%;
-    bottom: 9%;
-}
-.next img
-{
-    width: 30px;
-    display: block;
-    margin: 30px 5px;
-}
-.p h4
-{
-    color: #fff;
-    position: absolute;
-    left: 84%;
-    bottom: 13.4%;
-    font-family: 'Zen Kurenaido', sans-serif;
-}
